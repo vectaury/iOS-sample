@@ -22,6 +22,7 @@ Repository with examples of the Vectaury SDK implementation. This repository con
 
 * Clone or download the Git repository
 * Open the project in Xcode
+* in the project folder, run ```pod install ``` in your terminal
 * Replace the API Key in AppDelegate with your own
 
 ## Resources
