@@ -1,0 +1,6 @@
+framework module Vectaury {
+  umbrella header "Vectaury.h"
+
+  export *
+  module * { export * }
+}
