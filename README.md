@@ -2,16 +2,15 @@
     <img src=".readme/vectaury_logo.png?raw=true" alt="Vectaury logo" title="Vectaury logo">
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/platform-iOS-lightgrey.svg?style=flat" alt="iOS"/>
-</p>
-
 # Vectaury Sample Apps
 
 Repository with examples of the Vectaury SDK implementation. This repository contains two applications:
 
+* CocoaPods--CMP--ObjectiveC : An ObjectiveC application with a default implementation of the Vectaury CMP SDK
+* CocoaPods--CMP--Swift : An Swift 4 application with a default implementation of the Vectaury CMP SDK
 * CocoaPods--ObjectiveC : An ObjectiveC application with a default implementation of the Vectaury SDK
 * CocoaPods--Swift : An Swift 4 application with a default implementation of the Vectaury SDK
+
 
 ## Requirements
 
@@ -27,7 +26,8 @@ Repository with examples of the Vectaury SDK implementation. This repository con
 
 ## Resources
 
-* [Vectaury Documentation](https://cdn.vectaury.io/sdk/doc/ios/integration/)
+* [Vectaury SDK Documentation](https://cdn.vectaury.io/sdk/doc/ios/integration/)
+* [Vectaury Documentation](https://cdn.vectaury.io/sdk/doc/cmp/ios/integration//)
 * [vectaury.io](https://www.vectaury.io)
 
 ## License
