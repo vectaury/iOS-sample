@@ -1,0 +1,20 @@
+PODS:
+  - Consent-String (1.1.1)
+  - VectauryCMP (1.0):
+    - Consent-String (~> 1.0)
+
+DEPENDENCIES:
+  - VectauryCMP
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Consent-String
+    - VectauryCMP
+
+SPEC CHECKSUMS:
+  Consent-String: 772e288dfab69c58b187b0bae857608beab55c3d
+  VectauryCMP: 7bf6526be0d2f80d9bd3edd7ce09fdb67494e180
+
+PODFILE CHECKSUM: 0f6eb1340e98bba0e895b4639b2c6ffd75874593
+
+COCOAPODS: 1.5.3
